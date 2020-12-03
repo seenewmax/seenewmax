@@ -1,4 +1,4 @@
-[![Max's github stats](https://github-readme-stats.vercel.app/api?username=seenewmax&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Max's github stats](https://github-readme-stats.vercel.app/api?username=seenewmax&show_icons=true&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seenewmax&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
   
 <div align=center>
