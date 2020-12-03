@@ -1,4 +1,4 @@
-[![Max's github stats](https://github-readme-stats.vercel.app/api?username=seenewmax&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Max's github stats](https://github-readme-stats.vercel.app/api?username=seenewmax&show_icons=true&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seenewmax&layout=compact&langs_count=6&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
 <div align=center>
@@ -8,6 +8,8 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseenewmax%2Fhit-counter&count_bg=%23E85A71&title_bg=%23A5D296&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
