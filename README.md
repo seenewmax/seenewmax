@@ -1,7 +1,7 @@
 ### Ruby on Rails & Flutter developer
 
-<code><img width="40" height="40" src="https://pbs.twimg.com/media/CZGHPChUAAA3jqE.png"></code>
-<code><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></code>
+<code><img height="40" src="https://pbs.twimg.com/media/CZGHPChUAAA3jqE.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></code>
 
 [![Max's github stats](https://github-readme-stats.vercel.app/api?username=seenewmax&show_icons=true&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seenewmax&layout=compact&langs_count=6&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,18 +15,3 @@
   
 
 </div>
-
-<!--
-**seenewmax/seenewmax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
