@@ -1,5 +1,8 @@
 ### Ruby on Rails & Flutter developer
 
+<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+<code><img width="40" height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+
  ![file_type_flutter_icon_130599 (1)](http://s13.picofile.com/file/8402478176/file_type_flutter_icon_130599_1_.png) 
   ![file_type_flutter_icon_130599 (1)](https://img.favpng.com/4/13/16/ruby-on-rails-logo-programming-language-rubygems-png-favpng-WhQbCrZxcK4rVV4XP3x5JFYTF_t.jpg) 
 
