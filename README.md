@@ -1,4 +1,7 @@
-### Ruby on Rails & Flutter ![file_type_flutter_icon_130599 (1)](http://s13.picofile.com/file/8402478176/file_type_flutter_icon_130599_1_.png) developer
+### Ruby on Rails & Flutter developer
+
+ ![file_type_flutter_icon_130599 (1)](http://s13.picofile.com/file/8402478176/file_type_flutter_icon_130599_1_.png) 
+  ![file_type_flutter_icon_130599 (1)](https://img.favpng.com/4/13/16/ruby-on-rails-logo-programming-language-rubygems-png-favpng-WhQbCrZxcK4rVV4XP3x5JFYTF_t.jpg) 
 
 [![Max's github stats](https://github-readme-stats.vercel.app/api?username=seenewmax&show_icons=true&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seenewmax&layout=compact&langs_count=6&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
