@@ -1,4 +1,4 @@
-# Hi, I'm Juyeong :wave: :woman:‍:computer:
+# Hi, I'm Max :wave: :man:‍:computer:
 
 I'm a student learning business administration & computer science engineering at Dongguk University, Republic of Korea.  
 
