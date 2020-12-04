@@ -1,8 +1,7 @@
 ### Ruby on Rails & Flutter developer
 
-<code><img height="40" src="https://pbs.twimg.com/media/CZGHPChUAAA3jqE.png"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/22142225/99963731-8eae3e80-2dd5-11eb-8d23-f725778a248b.png"></code>
 
 [![Max's github stats](https://github-readme-stats.vercel.app/api?username=seenewmax&show_icons=true&hide=stars&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seenewmax&layout=compact&langs_count=6&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
